@@ -6,8 +6,13 @@ C2BN is a novel Camera-LiDAR fusion network. It utilizes cross-modality attentio
 
 ## Performance on KITTI Dataset(3712 training, 3769 validation)
 
-**C2BN (SECOND+TOOD) VS SECOND:**
-
+**C2BN (SECOND+TOOD) VS MVXNet:**
+```
+new 40 recall points
+Car:      Easy@0.7       Moderate@0.7   Hard@0.7
+bev:  AP: 94.01 / 92.29, 88.22 / 88.02, 85.66 / 85.65
+3d:   AP: 90.53 / 88.11, 79.07 / 78.44, 75.79 / 73.99
+```
 ## Performance on Waymo Dataset
 This will be update later.
 
