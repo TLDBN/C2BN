@@ -2,7 +2,7 @@
 
 ![Image](https://user-images.githubusercontent.com/59462530/224537346-bbb3a4f1-78a4-4ffa-a131-3a175c8efdac.png)
 
-C2BN is a novel Camera-LiDAR fusion network. C2BN compose two  module: Cross-Modality balance Network (CMN) utilizes cross-modality attention mechanisms to balance the importance and receptive field of two modalities. Cross-Scale balance Module (CSN) employs cross-scale attention mechanisms to reduce the imbalance in multi-level features. 
+C2BN is a novel Camera-LiDAR fusion network. C2BN compose two  modules: Cross-Modality balance Network (CMN) utilizes cross-modality attention mechanisms to balance the importance and receptive field of two modalities. Cross-Scale balance Module (CSN) employs cross-scale attention mechanisms to reduce the imbalance in multi-level features. 
 
 ## Performance on KITTI Dataset(3712 training, 3769 validation)
 
